@@ -1,0 +1,13 @@
+/*Programa: Hola Mundo
+Autor: Ricardo Grijalva
+Fecha: 23/05/2020
+Version: 1.0*/
+#include <iostream>
+
+int main ()
+{
+    std::cout << "Hola mundo!";
+    std::cin.get();
+    return 0;
+
+}
